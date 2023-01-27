@@ -5,7 +5,6 @@
 <div align="center" width="50">
 </div>
 
-You have finally discovered my Github profile. <br>
 Please feel free to clone projects and raise issues if you think something could be better.
 
 Happy Coding! 😊
@@ -35,7 +34,6 @@ Happy Coding! 😊
 
 Skills: Data Science / Machine Learning/ Deep Learning/ Data Analysis/ Web Scraping
 
-- 🔭 I’m currently working on this page. 
 
 
 
